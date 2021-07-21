@@ -1,0 +1,9 @@
+{
+  "$schema": "https://aka.ms/azure-quickstart-templates-metadata-schema#",
+  "type": "QuickStart",
+  "itemDisplayName": "On-demand Capacity Reservation",
+  "description": "This template will deploy a regional capacity reservation for 3 quantities of Standard_D2s_v3 VMs",
+  "summary": "Shows how to create a regional capacity reservation group and capacity reservation",
+  "githubUsername": "vargupt",
+  "dateUpdated": "2021-07-21"
+}
